@@ -1,0 +1,3 @@
+This library implements a VERY basic version of the LZW compression algorithm.
+The Econde function reads the first 1024 bytes of a file and creates a compressed version using
+the LZW algorithm.  The Decode function accepts an encoded file and decodes it
